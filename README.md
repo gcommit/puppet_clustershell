@@ -22,7 +22,8 @@ $ git clone
 $ bundle install
 $ ruby $HOME/puppetclustershell/get_hosts.rb
 ```
-##Config
+
+## Config
 In the config file you can define your Foreman URL with "path_common" and your username with "user".
 You password you will have to enter in the prompt after running the get_hosts.rb
 

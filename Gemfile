@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'activesupport', '=4.1.13'
+gem 'json' , '=1.8.3'
+gem 'multi_json', '=1.11.0'
+gem 'rest-client', '=1.8.0'
+gem 'logger', '=1.2.8'
